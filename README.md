@@ -1,6 +1,6 @@
 <!-- https://github.com/lyryenn -->
 <p align="center">
-  <img src="Imagens/7he R4.gif"/>
+  <img src="Images/7he R4.gif"/>
 </p>
 
 # Olá, me chamo Natália :smiley_cat:
